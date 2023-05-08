@@ -9,14 +9,16 @@
 </p>
 
 
+<h3 align="center">ติดตั้ง</h3>
+
 ```
 composer update
 ```
 
-```
-User : admin
-Paswword : admin
-```
+
+
+
+<h3 align="center">ตั้งค่า</h3>
 
 ```
 Create Database and Import file : advanced-meeting-21-6-2022.sql
@@ -43,7 +45,12 @@ return [
 ];
 ```
 
+<h3 align="center">ใช้งาน</h3>
 
 ```
 http://localhost/advanced-meeting/backend/web/index.php
+```
+```
+User : admin
+Paswword : admin
 ```
