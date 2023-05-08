@@ -40,3 +40,8 @@ return [
     ],
 ];
 ```
+
+
+```
+http://localhost/advanced-meeting/backend/web/index.php
+```
