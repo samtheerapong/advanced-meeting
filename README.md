@@ -13,7 +13,7 @@ composer update
 
 ```
 User : admin
-Paswword : admin123456
+Paswword : admin
 ```
 
 ```
