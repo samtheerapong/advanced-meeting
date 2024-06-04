@@ -1,5 +1,6 @@
 <?php
 return [
+    'bsVersion'     => '4',
     'adminEmail' => 'admin@example.com',
     'supportEmail' => 'support@example.com',
     'senderEmail' => 'noreply@example.com',
